@@ -123,8 +123,3 @@ if [[ "$python_ver" == "2" ]]; then
 elif [[ "$python_ver" == "3" ]]; then
     install_xi_iot_sdk_python3
 fi
-
-
-
-
-
